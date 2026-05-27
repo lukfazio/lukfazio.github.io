@@ -1,2 +1,2 @@
 # lukfazio.github.io
-Pagina de Documentação da Comunidade Lorcana Lore Guides BR
+Pagina de Documentação do repositório GitHub de Lúcio Fázio (@lukfazio)
